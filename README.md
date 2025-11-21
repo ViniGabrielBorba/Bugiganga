@@ -19,7 +19,7 @@ Landing page moderna e responsiva para a marca **Caio Bugiganga**, especializada
 ## 📦 Produtos em Destaque
 
 - 🥩 **Picanha Premium**
-- 🥃 **Uísque Selecionado**
+- 🥃 **Whisky Selecionado**
 - 🧄 **Pão de Alho Artesanal**
 - 🧀 **Complementos Frios** (Queijos e Embutidos)
 
